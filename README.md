@@ -103,26 +103,33 @@ CareSense-AI/
 To develop an AI-powered Smart Healthcare Assistant that provides preventive healthcare guidance, health monitoring, and caregiver support using IBM watsonx Orchestrate, with a future roadmap toward IoT-enabled Smart Elderly Care systems.
 
 ---
+## 🏗️ System Architecture
 
-Smart Care Chair
-        │
-        ▼
-Health Sensors
-        │
-        ▼
-IBM watsonx Orchestrate
-        │
-        ▼
-IBM Granite Models
-        │
-        ▼
-CareSense AI
-        │
-        ▼
-Health Analysis
-        │
-        ▼
-Caregiver Recommendations
+```text
+                    CareSense AI Architecture
+
+      Health Data / User Input / Future IoT Sensors
+                        │
+                        ▼
+          IBM watsonx Orchestrate Agent
+                        │
+                        ▼
+            IBM Granite Models (LLM)
+                        │
+                        ▼
+      Health Analysis & AI Reasoning Engine
+                        │
+        ┌───────────────┼───────────────┐
+        ▼               ▼               ▼
+ Health Score     Preventive Advice   Risk Analysis
+                        │
+                        ▼
+            Caregiver Recommendations
+```
+
+---
+
+
 
 ## 👨‍💻 Author
 
