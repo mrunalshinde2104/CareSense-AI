@@ -76,12 +76,18 @@ CareSense-AI/
 
 ## 📸 Screenshots
 
-*(Add screenshots after uploading your project.)*
 
 - Home Page
+ <img width="1847" height="932" alt="image" src="https://github.com/user-attachments/assets/de1f8eee-0534-4be9-a5df-2253872993cd" />
+
 - Healthcare Dashboard
+  <img width="1846" height="897" alt="image" src="https://github.com/user-attachments/assets/e8095418-2ac5-4b60-8ad1-89fd5df085cf" />
+
 - AI Chat Assistant
+  <img width="1825" height="947" alt="image" src="https://github.com/user-attachments/assets/3ad6d78f-0a03-407d-8a57-417b13746bd4" />
+
 - Health Monitoring Cards
+<img width="1827" height="915" alt="image" src="https://github.com/user-attachments/assets/b662dcc3-6c25-4c7a-b2f6-ebb133908486" />
 
 ---
 
