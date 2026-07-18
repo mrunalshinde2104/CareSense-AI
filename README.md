@@ -5,6 +5,13 @@
 CareSense AI is an AI-powered healthcare assistant designed to support **elderly health monitoring** through intelligent conversations, preventive healthcare recommendations, and caregiver assistance. Built using **IBM watsonx Orchestrate**, the system analyzes health information, provides personalized guidance, and is designed for future integration with IoT-enabled Smart Care Chair systems.
 
 ---
+![IBM watsonx Orchestrate](https://img.shields.io/badge/IBM-watsonx%20Orchestrate-blue)
+![Healthcare](https://img.shields.io/badge/Domain-Healthcare-green)
+![AI](https://img.shields.io/badge/AI-Granite%20Models-orange)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
 
 ## 📌 Project Overview
 
@@ -96,6 +103,26 @@ CareSense-AI/
 To develop an AI-powered Smart Healthcare Assistant that provides preventive healthcare guidance, health monitoring, and caregiver support using IBM watsonx Orchestrate, with a future roadmap toward IoT-enabled Smart Elderly Care systems.
 
 ---
+
+Smart Care Chair
+        │
+        ▼
+Health Sensors
+        │
+        ▼
+IBM watsonx Orchestrate
+        │
+        ▼
+IBM Granite Models
+        │
+        ▼
+CareSense AI
+        │
+        ▼
+Health Analysis
+        │
+        ▼
+Caregiver Recommendations
 
 ## 👨‍💻 Author
 
